@@ -1,0 +1,14 @@
+datasets==3.3.1
+google-cloud-aiplatform
+gspread
+huggingface_hub
+markdown
+matplotlib
+numpy
+openai
+pandas
+pymannkendall==1.4.3
+scipy
+tiktoken==0.9.0
+torch
+vertexai
