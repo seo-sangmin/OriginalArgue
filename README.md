@@ -2,7 +2,7 @@
 
 # OriginalArgue
 
-Generating cogent and original argument outlines through iterative critique-and-revision with large language models (GPT-4o, o1, o1-preview). This project accompanies the master's thesis by Sangmin Seo.
+Generating cogent and original argument outlines through iterative critique-and-revision with large language models (GPT-4o, o1-mini, o1-preview). This project accompanies the master's thesis by Sangmin Seo.
 
 ## Project Structure
 
