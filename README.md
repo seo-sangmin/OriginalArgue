@@ -1,4 +1,5 @@
 \****The codes in this repo are being modularized and corrected based on the original notebook written in Jan 2025.***
+(to be original-argue)
 
 # OriginalArgue
 
@@ -19,7 +20,8 @@ OriginalArgue/
 │   ├── visualization.py     # Similarity trend plots & Mann-Kendall tests
 │   ├── survey.py            # Comparison pairs, HTML tables, Bradley-Terry model
 │   └── finetuning.py        # Fine-tuning dataset preparation & validation
-└── Generating Cogent and Original Arguments v3.6.ipynb  # Original notebook
+└── original_notebook/
+    └── Generating Cogent and Original Arguments v3.6.ipynb  # Original notebook
 ```
 
 ## Pipeline Overview
