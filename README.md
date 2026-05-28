@@ -52,8 +52,9 @@ OriginalArgue/
 │   ├── visualization.py     # Similarity trend plots & Mann-Kendall tests
 │   ├── survey.py            # Comparison pairs, HTML tables, Bradley-Terry model
 │   └── finetuning.py        # Fine-tuning dataset preparation & validation
-└── original_notebook/
-    └── Generating Cogent and Original Arguments v3.6.ipynb  # Original notebook
+└── original_materials/
+    ├── Generating Cogent and Original Arguments v3.6.ipynb  # Original notebook
+    └── Master_s_Thesis__Sangmin_SEO__v2_8.pdf
 ```
 
 ## Pipeline Overview
