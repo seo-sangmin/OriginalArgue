@@ -1,4 +1,4 @@
-\****The codes in this repo are being modularized and corrected based on the original notebook written in Jan 2025.***
+\****The codes in this repo are being modularized and corrected based on the original Python notebook written in Jan 2025.***
 
 # OriginalArgue
 
@@ -6,7 +6,7 @@ Generating cogent and original argument outlines through iterative critique-and-
 
 ## Research Summary
 
-This repository implements the experiments from the master's thesis *Leveraging Large Language Models to Generate Original and Cogent Arguments on the Connectionist Eliminativism of Belief* (Sangmin Seo, Munich Center for Mathematical Philosophy, LMU Munich, February 2025). The full text is in [`original_notebook/`](original_notebook/Master_s_Thesis__Sangmin_SEO__v2_8.pdf).
+This repository implements the experiments from the master's thesis *Leveraging Large Language Models to Generate Original and Cogent Arguments on the Connectionist Eliminativism of Belief* (Sangmin Seo, Munich Center for Mathematical Philosophy, LMU Munich, February 2025). The full text is in [`original_materials/`](original_materials/Master_s_Thesis__Sangmin_SEO__v2_8.pdf).
 
 ### Main Claim
 
