@@ -8,8 +8,6 @@ Generating cogent and original argument outlines through iterative critique-and-
 
 This repository implements the experiments from the master's thesis *Leveraging Large Language Models to Generate Original and Cogent Arguments on the Connectionist Eliminativism of Belief* (Sangmin Seo, Munich Center for Mathematical Philosophy, LMU Munich, February 2025). The full text is in [`original_materials/`](original_materials/Master_s_Thesis__Sangmin_SEO__v2_8.pdf).
 
-### Main Claim
-
 **Research question.** Can LLMs generate original and cogent philosophical arguments based on specific claims in the debate surrounding the *connectionist eliminativism of belief*?
 
 **Hypothesis.** Properly configured LLMs, combined with methods that enhance originality and cogency, can generate arguments on connectionist eliminativism that are significantly more original and cogent than those produced by simply prompting a single LLM.
