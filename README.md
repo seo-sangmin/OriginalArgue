@@ -1,6 +1,6 @@
 \****The codes in this repo are being modularized and corrected based on the original Python notebook written in Jan 2025.***
 
-# OriginalArgue
+# original-argue
 
 Generating cogent and original argument outlines through iterative critique-and-revision with large language models (GPT-4o, o1-preview, o1). This project accompanies the master's thesis by Sangmin Seo.
 
